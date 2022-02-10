@@ -1,0 +1,14 @@
+C:\Users\chino\source\repos\Agenda_Proyecto\Agenda_Proyecto\obj\Debug\Agenda_Proyecto.csproj.AssemblyReference.cache
+C:\Users\chino\source\repos\Agenda_Proyecto\Agenda_Proyecto\obj\Debug\Agenda_Proyecto.Form1.resources
+C:\Users\chino\source\repos\Agenda_Proyecto\Agenda_Proyecto\obj\Debug\Agenda_Proyecto.Properties.Resources.resources
+C:\Users\chino\source\repos\Agenda_Proyecto\Agenda_Proyecto\obj\Debug\Agenda_Proyecto.csproj.GenerateResource.cache
+C:\Users\chino\source\repos\Agenda_Proyecto\Agenda_Proyecto\obj\Debug\Agenda_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\chino\source\repos\Agenda_Proyecto\Agenda_Proyecto\bin\Debug\Agenda_Proyecto.exe.config
+C:\Users\chino\source\repos\Agenda_Proyecto\Agenda_Proyecto\bin\Debug\Agenda_Proyecto.exe
+C:\Users\chino\source\repos\Agenda_Proyecto\Agenda_Proyecto\bin\Debug\Agenda_Proyecto.pdb
+C:\Users\chino\source\repos\Agenda_Proyecto\Agenda_Proyecto\obj\Debug\Agenda_Proyecto.exe
+C:\Users\chino\source\repos\Agenda_Proyecto\Agenda_Proyecto\obj\Debug\Agenda_Proyecto.pdb
+C:\Users\chino\source\repos\Agenda_Proyecto\Agenda_Proyecto\obj\Debug\Agenda_Proyecto.Form2.resources
+C:\Users\chino\source\repos\Agenda_Proyecto\Agenda_Proyecto\obj\Debug\Agenda_Proyecto.Form3.resources
+C:\Users\chino\source\repos\Agenda_Proyecto\Agenda_Proyecto\obj\Debug\Agenda_Proyecto.Form4.resources
+C:\Users\chino\source\repos\Agenda_Proyecto\Agenda_Proyecto\obj\Debug\Agenda_Proyecto.Form5.resources
